@@ -5,3 +5,5 @@ only works if opera gx is opened, also you need to disable windows minimize anim
 pip install pyautogui
 pip install pywin32
 
+save files to the same folder, if opera.png and rickroll.py arent in the same folder this wont work
+
